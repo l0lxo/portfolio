@@ -31,7 +31,7 @@ const Projects = () => {
       <div className="projects-container">
         <Slider {...settings}>
         {
-            DataTransfer.map((project,key) => {
+            data.map((project,key) => {
                 return(
                     <div key={key} className="project">
                         <div className="content">
