@@ -7,7 +7,7 @@ const Body = () => {
     <div className="body">
       <div className="body-container">
         <div className="body-profile">
-          <img className="body-img" alt="avatar" src={Image}/>
+          <img className="body-img" alt="avatar" src={Avatar}/>
           <div className="body-content">
             <div className="body-headline">Grace Messo</div>
             <div className="body-text">Student</div>
