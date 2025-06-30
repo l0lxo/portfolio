@@ -1,27 +1,27 @@
 [
     {
-        "name" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "HTML",
+        "description" : "I learnt to use HTML",
+        "link" : "https://github.com/l0lxo/odin-recipes"
     },
     {
-        "name" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Java",
+        "description" : "I made a drink order system.",
+        "link" : "https://github.com/l0lxo/Drink-Order-System"
     },
     {
-        "name" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Python",
+        "description" : "Did some data structures and algorithms.",
+        "link" : "https://github.com/l0lxo/DSA"
     },
     {
-        "name" : "Project 4",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "CSS",
+        "description" : "I learnt to use CSS",
+        "link" : "https://github.com/l0lxo/odin-recipes"
     },
     {
-        "name" : "Project 5",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "JavaScript",
+        "description" : "I learnt to use JavaScript",
+        "link" : "https://github.com/l0lxo/odin-recipes"
     }
 ]
