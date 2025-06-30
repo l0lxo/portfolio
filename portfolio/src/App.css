@@ -223,7 +223,6 @@
   border-radius: 15px;
   transition: all 0.5s;
   cursor: auto;
-  overflow: hidden;
 }
 
 .content:hover {
