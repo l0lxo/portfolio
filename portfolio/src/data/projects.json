@@ -2,26 +2,26 @@
     {
         "name" : "HTML",
         "description" : "I learnt to use HTML",
-        "link" : "https://github.com/l0lxo/odin-recipes"
+        "image" : "HTML.jpg"
     },
     {
         "name" : "Java",
         "description" : "I made a drink order system.",
-        "link" : "https://github.com/l0lxo/Drink-Order-System"
+        "image" : "Java.jpg"
     },
     {
         "name" : "Python",
         "description" : "Did some data structures and algorithms.",
-        "link" : "https://github.com/l0lxo/DSA"
+        "image" : "Python.jpg"
     },
     {
         "name" : "CSS",
         "description" : "I learnt to use CSS",
-        "link" : "https://github.com/l0lxo/odin-recipes"
+        "image" : "CSS.jpg"
     },
     {
         "name" : "JavaScript",
         "description" : "I learnt to use JavaScript",
-        "link" : "https://github.com/l0lxo/odin-recipes"
+        "image" : "JavaScript.jpg"
     }
 ]
